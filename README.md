@@ -1,3 +1,5 @@
+# Abandoned !!! Move to [node-lru-addon](https://github.com/denghongcai/node-lru-addon)
+
 node-lru-native
 ===============
 [![Build Status](https://travis-ci.org/denghongcai/node-lru-native.svg?branch=master)](https://travis-ci.org/denghongcai/node-lru-native)
